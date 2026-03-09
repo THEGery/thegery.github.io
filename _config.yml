@@ -21,8 +21,7 @@
 title: Viktor Barath's WMC Project
 email: viktor.barath7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is to demonstarate and test the GitHub hosting and static site generation with the help of Jekyll.
-  The site is not intended for commercial use. It is for testing and learning pourposes.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:

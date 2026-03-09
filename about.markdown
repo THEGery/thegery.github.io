@@ -4,6 +4,8 @@ layout: default
 title: About
 permalink: /about/
 ---
+# __About__
+
 ## __Where do you want to go?__
 * [Home](/index.markdown)
 * [Code](/code.markdown)
@@ -37,3 +39,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+---
+
+###### This site is to demonstarate and test the GitHub hosting and static site generation with the help of Jekyll. The site is not intended for commercial use. It is for testing and learning pourposes.

@@ -6,6 +6,8 @@
 layout: default
 title: Home
 ---
+# __Home__
+
 ## __Where do you want to go?__
 * [Code](/code.markdown)
 * [About](/about.markdown)
@@ -17,3 +19,7 @@ title: Home
 
 #### Powered by
 ![GitHub Logo](/assets/images/GitHub_Lockup_White_Clearspace.png){: width="500"}
+
+---
+
+###### This site is to demonstarate and test the GitHub hosting and static site generation with the help of Jekyll. The site is not intended for commercial use. It is for testing and learning pourposes.

@@ -4,6 +4,8 @@ layout: default
 title: Code
 permalink: /code/
 ---
+# __Code__
+
 ## __Where do you want to go?__
 * [Home](/index.markdown)
 * [Code](/code.markdown)
@@ -25,12 +27,15 @@ A simple __python__ code block, showing a typical python pattern.
 #!/usr/bin/env python3
 import sys
 
-def code_example():
-    pass
+def hello():
+    greetings = ['Hello', 'Hola', 'Bonjour', 'Hallo','Ciao', 'Ni Hao']
+
+    for greeting in greetings:
+        print(f'{greeting}, World!')
 
 
 def main():
-    code_example()
+    hello()
     return 0
 
 
@@ -51,3 +56,7 @@ int main(void) {
     return 0;   // 0 for success
 }
 ```
+
+---
+
+###### This site is to demonstarate and test the GitHub hosting and static site generation with the help of Jekyll. The site is not intended for commercial use. It is for testing and learning pourposes.
