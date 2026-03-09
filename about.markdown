@@ -1,9 +1,22 @@
 ---
 layout: page
+# layout: default
 title: About
 permalink: /about/
 ---
 
+## About This Site
+This site is to demonstarate and test the GitHub hosting and static site generation with the help of Jekyll.
+The site is not intended for commercial use. It is for testing and learning pourposes.
+
+## Contacts
+#### ![GitHub](/assets/images/GitHub_Invertocat_Black_Clearspace.png){: width="60" } [GitHub - THEGery](https://github.com/THEGery/thegery.github.io/tree/master)
+
+#### Email: viktor.barath7@gmail.com
+
+---
+
+## Jekyll Links:
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
