@@ -3,7 +3,8 @@ thegery.github.io
 # Welcome to my Website!
 
 ## Content
-This is the start of my GitHub website exploration.
+Jekyll SSG website.
+https://thegery.github.io/
 
 ### Email
 viktor.barath7@gmail.com
