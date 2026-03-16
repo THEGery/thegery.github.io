@@ -9,7 +9,6 @@ permalink: /about/
 ## __Where do you want to go?__
 * [Home](/index.markdown)
 * [Code](/code.markdown)
-* [About](/about.markdown)
 * [THEGery's GitHub page](https://github.com/THEGery)
 * [This page's GitHub Repo](https://github.com/THEGery/thegery.github.io/tree/master)
 
